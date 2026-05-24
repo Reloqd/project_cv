@@ -9,7 +9,7 @@
 
 A single-page interactive CV/portfolio website built entirely with vanilla HTML, CSS, and JavaScript. **Zero dependencies** -- no frameworks, no build tools, no npm packages. Just open the file and it works.
 
-![Screenshot](screenshot.png)
+cv.theobs.fr
 <!-- Replace screenshot.png with an actual screenshot of the site -->
 
 ---
